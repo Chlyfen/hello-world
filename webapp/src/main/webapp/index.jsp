@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Cliff Form Untuk register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Test CI/CD Testing Otomatis</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
