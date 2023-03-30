@@ -3,6 +3,8 @@
     <h1>Cliff Form Untuk register</h1>
     <p>Test CI/CD Testing Otomatis Docker</p>
     <hr>
+
+    <label>Testing kebutuhan cek ci/cd</label>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
